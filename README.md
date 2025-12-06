@@ -1,6 +1,6 @@
 <h1 align="center">📝 MERN Stack Note Taking App ✨</h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+![Demo App](/frontend/public/image.png)
 
 Highlights:
 
