@@ -117,12 +117,4 @@ Please follow existing code style and keep changes focused.
 
 ---
 
-## License
 
-This project does not include a license file in the workspace. Add a `LICENSE` if you want to define terms (for example, MIT).
-
----
-
-## Contact / Notes
-
-If you want me to update this README further (add screenshots, API examples, or CI/deployment instructions), tell me what you want included and I’ll add it.
